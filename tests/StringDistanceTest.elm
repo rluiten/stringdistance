@@ -1,4 +1,4 @@
-module StringDistanceTest where
+module StringDistanceTest exposing (..)
 
 import String
 

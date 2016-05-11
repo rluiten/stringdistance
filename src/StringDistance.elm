@@ -1,8 +1,8 @@
-module StringDistance
+module StringDistance exposing
     ( sift3Distance
     , lcs
     , lcsLimit
-    ) where
+    )
 
 
 {-| A library to calculate a metric indicating the string distance between two strings.
